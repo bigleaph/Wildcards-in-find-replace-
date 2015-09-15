@@ -1,0 +1,2 @@
+# Wildcards-in-find-replace-
+I am a novice at this- I have a list of DNA sequences in a N++ file in which I want to find and replace certain variables. For example, embedded in each line is something of this format: [-/TCACAT]. For each instance, I want to find the '[-/' and replace the whole phrase with whatever letters are within the brackets, while eliminating both brackets. Can anyone advise me on how to do this?
